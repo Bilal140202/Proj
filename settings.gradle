@@ -1,0 +1,3 @@
+// Include modules in the project
+include ':app'
+rootProject.name = "GalleryApp" // Or your desired project name
