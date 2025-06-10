@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="desc_full_screen_image">Full screen image display</string>
+</resources>
